@@ -1,0 +1,6 @@
+file '/opt/images/elephant-2380009_1920.jpg'
+duration 5
+file '/opt/images/fox-1883658_1920.jpg'
+duration 5
+file '/opt/images/pterosaur-2735500_1920.jpg'
+duration 5
